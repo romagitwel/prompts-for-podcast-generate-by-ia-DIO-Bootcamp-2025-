@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/Cover (2).png"
+    src="./Assets/Cover (1).png"
     width="300"
 />
 </p>
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    Preview do Podcast
 </p>
 
 <div align="center">
@@ -33,7 +33,7 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+> ℹ️ **NOTE:** Todo conteudo pode ser acessados pelos links no projeto e arquivos disponiveis aqui mesmo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
